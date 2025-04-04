@@ -8,5 +8,5 @@ eureka:
 jwt:
   secret_key: "secret"
 spring:
-  profile:
+  profiles:
     active: dev
