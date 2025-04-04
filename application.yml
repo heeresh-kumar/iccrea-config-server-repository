@@ -9,4 +9,4 @@ jwt:
   secret_key: "secret"
 spring:
   profiles:
-    active: dev
+    active: prod
