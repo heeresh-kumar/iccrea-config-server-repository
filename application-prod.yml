@@ -7,3 +7,6 @@ eureka:
     hostname: localhost
 jwt:
   secret_key: "secret"
+spring:
+  application:
+    name: config-server-prod
